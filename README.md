@@ -6,7 +6,9 @@ width="50"></h2><img align='right' src=
 
 >Hi! nice to meet you🤗
 
-I'm Iván, a student of 💛soyHenry, about to finish the course and obtain the Full-Stack Web Developer certificate🎓. I have all the required knowledge to start when the opportunity arises, although I prefer to work more on the Front-End since complements my Hobbies! I am very excited to have my first IT job👨‍💻, I am a proactive and very curious person💡, I really like what I do and I would love to develop it together with a good work team.
+I'm Iván, a Full-Stack Web Developer. Graduated from 💛soyHenry.
+I have all the required knowledge to start when the opportunity arises, although I prefer to work more on the Front-End since complements my Hobbies! 
+I love the IT job👨‍💻, I am a proactive and very curious person💡, I really like what I do and I would love to develop it together with a good work team.
 
 >ℹ Some facts about me:
 
@@ -23,7 +25,7 @@ I hope we can get to know each other better, in any case it was a pleasure to gr
 const ivan = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Express, Styled-Components, Jest, Sequelize],
+  tools: [React, Redux, Node, Express, Styled-Components, Jest, Sequelize, TailwindCSS, Passport],
   challenge: "I am doing all the projects that i can in one year..."
 }
 ```
