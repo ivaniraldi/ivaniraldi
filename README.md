@@ -1,9 +1,11 @@
 <h2> Hi, I'm Iván Iraldi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e4707y3yxii9qq29jjal60uigw9v7cxc9fa164c5qt6&rid=giphy.gif&ct=s" width="230">
 
-<p><em>Full Stack Developer at <a href="http://www.soyhenry.com">soyHenry</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Programming Tutor at <a href="https://www.coderhouse.com">CoderHouse</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Full Stack Developer at <a href="http://www.soyhenry.com">soyHenry</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Programming Tutor at <a href="https://www.coderhouse.com">CoderHouse</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</br>Programming Tutor at <a href="https://desafiolatam.com/">Desafío Latam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
 
-<p>em>Programming Tutor at <a href="https://desafiolatam.com/">Desafío Latam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+
 
 ## Hi there! Nice to meet you! 🤗
 
