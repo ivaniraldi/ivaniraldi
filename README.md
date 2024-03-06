@@ -3,7 +3,7 @@
 
 <p><em>Full Stack Developer at <a href="http://www.soyhenry.com">soyHenry</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Programming Tutor at <a href="https://www.coderhouse.com">CoderHouse</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-<p>Programming Tutor at <a href="https://desafiolatam.com/">Desafío Latam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+<p>em>Programming Tutor at <a href="https://desafiolatam.com/">Desafío Latam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 ## Hi there! Nice to meet you! 🤗
 
