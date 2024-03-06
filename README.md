@@ -13,7 +13,9 @@ I genuinely love the IT field 👨‍💻, and I consider myself a proactive and
 
 ### ℹ Some facts about me:
 
-💻 I've successfully developed three Single Page Apps (SPAs) as bootcamp projects, with two of them already deployed 🚀. One is currently in development, and it's a team effort involving 8 colleagues using the SCRUM methodology to create an E-Commerce platform in the style of a "Personal Art Gallery🎨." Check out the deployed apps at [woofizy.vercel.app](https://woofizy.vercel.app) 🐶 and [touristicGate.vercel.app](https://touristicGate.vercel.app) 🚀. I welcome your feedback, as there are still changes I'd like to make. For more projects, you can explore my GitHub linked at the end of this introduction.
+💻 I take pride in my diverse portfolio, showcasing a myriad of innovative applications that I invite you to explore. Currently, my creative energy is channeled into crafting a dynamic music player app, a project that fuels my passion for both technology and music. Alongside my development endeavors, I find immense joy in mentoring and guiding almost 100 students as a dedicated programming tutor.
+
+Among my accomplishments are three Single Page Apps (SPAs) born from intensive bootcamp projects, with two already making waves in the digital realm 🚀. The latest addition to my repertoire is a collaborative effort with 8 talented colleagues, utilizing the SCRUM methodology to shape an E-Commerce platform inspired by the essence of a "Personal Art Gallery🎨." Immerse yourself in the experience by exploring the deployed apps at woofizy.vercel.app 🐶 and touristicGate.vercel.app 🚀. Your insights and feedback are invaluable, guiding the ongoing refinement of these creations. For an in-depth exploration of my projects, feel free to peruse my GitHub, conveniently linked at the end of this introduction. 🌐✨
 
 🤩 Besides coding, I'm a big fan of videogames🕹 and movies🎬. In my free time, I indulge in painting and occasionally compose some music🤘!
 
