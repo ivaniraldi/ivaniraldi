@@ -1,43 +1,31 @@
-<h2> Hi, I'm Iván Iraldi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hello, I'm Iván Iraldi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e4707y3yxii9qq29jjal60uigw9v7cxc9fa164c5qt6&rid=giphy.gif&ct=s" width="230">
 
-<p><em>Full Stack Developer at <a href="http://www.soyhenry.com">soyHenry</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Programming Tutor at <a href="https://www.coderhouse.com">CoderHouse</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</br>Programming Tutor at <a href="https://desafiolatam.com/">Desafío Latam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
+👨‍🏫 **Full Stack Programming Tutor** at [Desafío Latam](https://desafiolatam.com/) & **Back-End Tutor** at Coderhouse.
 
+---
 
+## Hello there! Nice to meet you! 🤝
 
-## Hi there! Nice to meet you! 🤗
+I’m Iván, a passionate and dedicated Full-Stack Web Developer with a strong background in JavaScript, React, Node.js, and SQL. I specialize in Front-End Development, blending my technical skills with a love for creative problem-solving to deliver high-quality web applications. My goal is to drive impactful, user-centered solutions within dynamic, collaborative teams.
 
-I'm Iván, a Full-Stack Web Developer and a proud graduate of 💛soyHenry. While I possess all the required knowledge for comprehensive development, I have a particular affinity for Front-End work, as it aligns seamlessly with my hobbies!
+Currently, I’m leveraging my knowledge as a Programming Tutor, guiding nearly 100 students through the complexities of web development. I’m also working on several side projects, including a dynamic music player application. These initiatives allow me to constantly learn and stay connected with the latest industry trends.
 
-I genuinely love the IT field 👨‍💻, and I consider myself a proactive and curious individual 💡. I'm passionate about what I do, and I'm eager to continue developing my skills alongside a dynamic and collaborative team.
+### 💡 Key Highlights of My Career:
 
-### ℹ Some facts about me:
+- 🌐 **Full-Stack Developer**: I bring extensive experience in building and deploying web applications. My portfolio includes Single Page Applications (SPAs) and E-Commerce platforms developed using SCRUM methodologies in collaboration with multidisciplinary teams.
+- 🎓 **Programming Tutor**: At both Coderhouse and Desafío Latam, I have had the opportunity to mentor aspiring developers, fostering a hands-on learning environment with real-world applications. My approach emphasizes collaboration, problem-solving, and skill-building, all aimed at preparing students for the challenges of the tech industry.
+- 🚀 **Portfolio Projects**: My projects are live at [woofizy.vercel.app](https://woofizy.vercel.app) 🐶 and [touristicGate.vercel.app](https://touristicgate.vercel.app) 🌍. Feel free to explore and provide feedback; it’s highly appreciated!
 
-💻 I take pride in my diverse portfolio, showcasing a myriad of innovative applications that I invite you to explore. Currently, my creative energy is channeled into crafting a dynamic music player app, a project that fuels my passion for both technology and music. Alongside my development endeavors, I find immense joy in mentoring and guiding almost 100 students as a dedicated programming tutor.
-
-Among my accomplishments are three Single Page Apps (SPAs) born from intensive bootcamp projects, with two already making waves in the digital realm 🚀. The latest addition to my repertoire is a collaborative effort with 8 talented colleagues, utilizing the SCRUM methodology to shape an E-Commerce platform inspired by the essence of a "Personal Art Gallery🎨." Immerse yourself in the experience by exploring the deployed apps at woofizy.vercel.app 🐶 and touristicGate.vercel.app 🚀. Your insights and feedback are invaluable, guiding the ongoing refinement of these creations. For an in-depth exploration of my projects, feel free to peruse my GitHub, conveniently linked at the end of this introduction. 🌐✨
-
-🤩 Besides coding, I'm a big fan of videogames🕹 and movies🎬. In my free time, I indulge in painting and occasionally compose some music🤘!
-
-I hope we can get to know each other better. It was a pleasure to greet you! Feel free to reach out on my social networks for any questions or feedback; your contact would be greatly appreciated.
-
-**Nice to meet you!**
-
-Iván.
+---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const ivan = {
   pronouns: "he" | "him",
-  code: [JavaScript, Java, C#],
-  tools: [React, Redux, Node, Express, Styled-Components, Jest, Sequelize, TailwindCSS, Passport],
-}
-```
-
-[![Linkedin: ivaniraldi](https://img.shields.io/badge/-ivaniraldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivaniraldi/)](https://www.linkedin.com/in/ivaniraldi/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/ivaniraldi?label=follow&style=social)](https://github.com/ivaniraldi)
-
-**https://iraldidev.vercel.app > Portfolio**
+  code: [JavaScript, React, SQL, Node, HTML/CSS, Redux],
+  tools: [Git, Bootstrap, TailwindCSS, Jest, Sequelize, Passport],
+  languages: ["Spanish (Native)", "English (C2 Proficient)"],
+  interests: ["videogames", "movies", "music composition", "painting"],
+};
 
