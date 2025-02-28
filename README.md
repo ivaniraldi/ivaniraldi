@@ -1,31 +1,110 @@
-<h2> Hello, I'm Iván Iraldi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media4.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e4707y3yxii9qq29jjal60uigw9v7cxc9fa164c5qt6&rid=giphy.gif&ct=s" width="230">
+🌍 ¡Bienvenido a mi GitHub!
+<p align="center"><strong>Disponible en Español, English y Português</strong></p>
 
-👨‍🏫 **Full Stack Programming Tutor** at [Desafío Latam](https://desafiolatam.com/) & **Back-End Tutor** at Coderhouse.
+A continuación, encontrarás mi descripción en tres idiomas, cada una con un diseño atractivo y profesional, pero amigable. He organizado la información para destacar tus habilidades, proyectos y personalidad.
+🇬🇧 English Version
+<h1 align="center">👋 Hello, I'm Iván Iraldi!</h1>
+<p align="center">
+  <em>Full-Stack Web Developer | Programming Tutor | Creative Problem Solver</em>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
+</p>
 
----
+🚀 About Me
+I’m a passionate Full-Stack Web Developer with a knack for Front-End Development. I specialize in crafting dynamic, user-focused web applications using JavaScript, React, Node.js, and SQL. I love blending technical expertise with creativity to deliver impactful solutions.  
+🎓 Teaching & Mentoring:  
+Full Stack Programming Tutor at Desafío Latam  
+Back-End Tutor at Coderhouse  
+Guided nearly 100 students, fostering hands-on learning and real-world skills.
+🌟 Projects:  
+🐶 Woofizy: A Single Page Application for pet lovers.  
+🌍 TouristicGate: An E-Commerce platform for travel enthusiasts.  
+🎵 In progress: A dynamic music player app.
+🛠️ Tech Stack:  
+Languages: JavaScript, SQL, HTML, CSS  
+Frameworks: React, Redux, Node.js, Express, Sequelize  
+Tools: Git, Bootstrap, TailwindCSS, Jest, Passport
+🌐 Languages I Speak:  
+Spanish (Native)  
+English (C2 Proficient)  
+Portuguese (Intermediate) Nota: Ajusta el nivel si es diferente.
+🎨 Interests: Videogames, movies, music composition, painting
+📫 Let’s Connect!
+LinkedIn  
+GitHub Repositories
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
+</p>
 
-## Hello there! Nice to meet you! 🤝
+🇪🇸 Versión en Español
+<h1 align="center">👋 ¡Hola, soy Iván Iraldi!</h1>
+<p align="center">
+  <em>Desarrollador Web Full-Stack | Tutor de Programación | Solucionador Creativo</em>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
+</p>
 
-I’m Iván, a passionate and dedicated Full-Stack Web Developer with a strong background in JavaScript, React, Node.js, and SQL. I specialize in Front-End Development, blending my technical skills with a love for creative problem-solving to deliver high-quality web applications. My goal is to drive impactful, user-centered solutions within dynamic, collaborative teams.
+🚀 Sobre Mí
+Soy un Desarrollador Web Full-Stack apasionado con un enfoque especial en Desarrollo Front-End. Me dedico a crear aplicaciones web dinámicas y centradas en el usuario utilizando JavaScript, React, Node.js y SQL. Disfruto combinar mis habilidades técnicas con creatividad para generar soluciones impactantes.  
+🎓 Enseñanza y Mentoría:  
+Tutor de Programación Full Stack en Desafío Latam  
+Tutor de Back-End en Coderhouse  
+He guiado a casi 100 estudiantes, promoviendo aprendizaje práctico y habilidades aplicables.
+🌟 Proyectos:  
+🐶 Woofizy: Una SPA para amantes de las mascotas.  
+🌍 TouristicGate: Plataforma de comercio electrónico para viajeros.  
+🎵 En curso: Una aplicación de reproductor de música dinámico.
+🛠️ Habilidades Técnicas:  
+Lenguajes: JavaScript, SQL, HTML, CSS  
+Frameworks: React, Redux, Node.js, Express, Sequelize  
+Herramientas: Git, Bootstrap, TailwindCSS, Jest, Passport
+🌐 Idiomas que Hablo:  
+Español (Nativo)  
+Inglés (C2 Proficiente)  
+Portugués (Intermedio) Nota: Ajusta el nivel si es diferente.
+🎨 Intereses: Videojuegos, películas, composición musical, pintura
+📫 ¡Conectemos!
+LinkedIn  
+Repositorios de GitHub
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
+</p>
 
-Currently, I’m leveraging my knowledge as a Programming Tutor, guiding nearly 100 students through the complexities of web development. I’m also working on several side projects, including a dynamic music player application. These initiatives allow me to constantly learn and stay connected with the latest industry trends.
+🇵🇹 Versão em Português
+<h1 align="center">👋 Olá, sou Iván Iraldi!</h1>
+<p align="center">
+  <em>Desenvolvedor Web Full-Stack | Tutor de Programação | Solucionador Criativo</em>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
+</p>
 
-### 💡 Key Highlights of My Career:
+🚀 Sobre Mim
+Sou um Desenvolvedor Web Full-Stack apaixonado com foco especial em Desenvolvimento Front-End. Especializo-me em criar aplicações web dinâmicas e centradas no usuário usando JavaScript, React, Node.js e SQL. Gosto de combinar habilidades técnicas com criatividade para entregar soluções impactantes.  
+🎓 Ensino e Mentoria:  
+Tutor de Programação Full Stack na Desafío Latam  
+Tutor de Back-End na Coderhouse  
+Orientei quase 100 alunos, promovendo aprendizado prático e habilidades reais.
+🌟 Projetos:  
+🐶 Woofizy: Uma SPA para amantes de animais de estimação.  
+🌍 TouristicGate: Plataforma de comércio eletrônico para entusiastas de viagens.  
+🎵 Em andamento: Um aplicativo de player de música dinâmico.
+🛠️ Habilidades Técnicas:  
+Linguagens: JavaScript, SQL, HTML, CSS  
+Frameworks: React, Redux, Node.js, Express, Sequelize  
+Ferramentas: Git, Bootstrap, TailwindCSS, Jest, Passport
+🌐 Idiomas que Falo:  
+Espanhol (Nativo)  
+Inglês (C2 Proficiente)  
+Português (Intermediário) Nota: Ajuste o nível se for diferente.
+🎨 Interesses: Videogames, filmes, composição musical, pintura
+📫 Vamos Conectar!
+LinkedIn  
+Repositórios do GitHub
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
+</p>
 
-- 🌐 **Full-Stack Developer**: I bring extensive experience in building and deploying web applications. My portfolio includes Single Page Applications (SPAs) and E-Commerce platforms developed using SCRUM methodologies in collaboration with multidisciplinary teams.
-- 🎓 **Programming Tutor**: At both Coderhouse and Desafío Latam, I have had the opportunity to mentor aspiring developers, fostering a hands-on learning environment with real-world applications. My approach emphasizes collaboration, problem-solving, and skill-building, all aimed at preparing students for the challenges of the tech industry.
-- 🚀 **Portfolio Projects**: My projects are live at [woofizy.vercel.app](https://woofizy.vercel.app) 🐶 and [touristicGate.vercel.app](https://touristicgate.vercel.app) 🌍. Feel free to explore and provide feedback; it’s highly appreciated!
-
----
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-```javascript
-const ivan = {
-  pronouns: "he" | "him",
-  code: [JavaScript, React, SQL, Node, HTML/CSS, Redux],
-  tools: [Git, Bootstrap, TailwindCSS, Jest, Sequelize, Passport],
-  languages: ["Spanish (Native)", "English (C2 Proficient)"],
-  interests: ["videogames", "movies", "music composition", "painting"],
-};
-
+💡 Notas y Sugerencias
