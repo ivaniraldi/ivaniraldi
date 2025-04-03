@@ -12,7 +12,7 @@
 # 👋 ¡Hola, soy Iván Iraldi!
 *Desarrollador Web Full-Stack | Tutor de Programación | Solucionador Creativo*
 
-![Gif](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif)
+![Gif](https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif)
 
 ## 🚀 Sobre Mí  
 Soy un **Desarrollador Web Full-Stack** con una fuerte orientación hacia el **Front-End**. Me especializo en crear aplicaciones web dinámicas y centradas en el usuario, utilizando tecnologías como:
@@ -52,7 +52,7 @@ He guiado a múltiples generaciones de estudiantes, fomentando el aprendizaje pr
 # 🇬🇧 Hi, I'm Iván Iraldi!
 *Full-Stack Web Developer | Programming Tutor | Creative Problem Solver*
 
-![Gif](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif)
+![Gif](https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif)
 
 ## 🚀 About Me  
 I'm a **Full-Stack Web Developer** with a strong focus on **Front-End Development**. I specialize in building dynamic, user-centered web applications using:
@@ -82,7 +82,7 @@ I have guided multiple generations of students, emphasizing hands-on learning an
 # 🇵🇹 Olá, sou Iván Iraldi!
 *Desenvolvedor Web Full-Stack | Tutor de Programação | Solucionador Criativo*
 
-![Gif](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif)
+![Gif](https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif)
 
 ## 🚀 Sobre Mim  
 Sou um **Desenvolvedor Web Full-Stack** com forte ênfase no **Front-End**. Especializo-me em criar aplicações web dinâmicas e centradas no usuário, utilizando:
