@@ -1,127 +1,98 @@
+<details>
+  <summary>🌍 Select Language | Selecciona un Idioma | Escolha um Idioma</summary>
+  
+  - 🇪🇸 [Español](#-%C2%A1hola-soy-iv%C3%A1n-iraldi)
+  - 🇬🇧 [English](#-hi-im-iv%C3%A1n-iraldi)
+  - 🇵🇹 [Português](#-ol%C3%A1-sou-iv%C3%A1n-iraldi)
+  
+</details>
+
 ---
-# README - Iván Iraldi
-
-Bienvenidos a mi perfil de GitHub. Aquí encontrarás información sobre mi experiencia como desarrollador web, tutor de programación y creador de soluciones innovadoras. La información se presenta en tres idiomas: Español, English e Português. ¡Explora y descubre más sobre mi trabajo!
-
----
-
-## 🇪🇸 Versión en Español
 
 # 👋 ¡Hola, soy Iván Iraldi!
 *Desarrollador Web Full-Stack | Tutor de Programación | Solucionador Creativo*
 
 ![Gif](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif)
 
-### 🚀 Sobre Mí  
-Soy un Desarrollador Web Full-Stack con una fuerte orientación hacia el Desarrollo Front-End. Me especializo en crear aplicaciones web dinámicas y centradas en el usuario, utilizando tecnologías como JavaScript, React, Node.js, PostgreSQL y Sequelize. Combino mi conocimiento técnico con creatividad para generar soluciones innovadoras y prácticas.
+## 🚀 Sobre Mí  
+Soy un **Desarrollador Web Full-Stack** con una fuerte orientación hacia el **Front-End**. Me especializo en crear aplicaciones web dinámicas y centradas en el usuario, utilizando tecnologías como:
 
-### 🎓 Enseñanza y Mentoría  
-- **Tutor de Programación Full Stack** en Desafío Latam  
-- **Tutor de Back-End** en Coderhouse  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🎓 Enseñanza y Mentoría  
+👨‍🏫 **Tutor de Programación Full Stack** en Desafío Latam  
+🖥️ **Tutor de Back-End** en Coderhouse  
 He guiado a múltiples generaciones de estudiantes, fomentando el aprendizaje práctico y el desarrollo de habilidades reales.
 
-### 🌟 Proyectos Destacados  
-- 🐶 **WebRush Brasil**: Sitio web de mi empresa personal donde ofrezco servicios de diseño y desarrollo web.  
-- 🌍 **Sotelino Art Gallery**: Plataforma de comercio electrónico creada para un artista de Argentina.  
-- 🎮 **En Curso**: Aplicación de juegos de quiz en línea en tiempo real.  
+## 🌟 Proyectos Destacados  
+🚀 [**WebRush Brasil**](https://www.webrushbrasil.com.br/) - Mi empresa personal donde ofrezco servicios de desarrollo web.  
+🛒 [**E-Commerce Portfolio**](https://ecommerce-portfolio-8cbo.onrender.com/) - Tienda online como parte de mi portafolio.  
+🎮 **En desarrollo** - Juego de preguntas en tiempo real.
 
-- 👉 ¡Y mucho más!
+➡️ **Más proyectos:**
+🔗 [Portfolio Profesional](https://iraldidev.vercel.app/)  
+🎨 [Portfolio Hobbies](https://win98ivaniraldi.vercel.app/)  
+🖥️ [Portfolio Demo WebRush](https://portfolio-portfolio-cfrk.onrender.com/)  
 
-### 🛠️ Habilidades Técnicas  
-- **Lenguajes**: JavaScript, SQL, Python, C#, Java  
-- **Frameworks y Bibliotecas**: React, Redux, Node.js, Express, Sequelize, Bootstrap, TailwindCSS, PostgreSQL  
-- **Herramientas**: Git, Jest, Passport, Postman, Docker, PgAdmin
+## 🛠️ Habilidades Técnicas  
+- **Lenguajes:** JavaScript, SQL, Python, C#, Java  
+- **Frameworks y Bibliotecas:** React, Redux, Node.js, Express, Sequelize, Bootstrap, TailwindCSS  
+- **Herramientas:** Git, Jest, Passport, Postman, Docker, PgAdmin  
 
-### 🌐 Idiomas  
-- Español (Nativo)  
-- Inglés (C2 Proficiente)  
-- Portugués (Intermedio)
+## 🌐 Idiomas  
+- 🇪🇸 Español (Nativo)  
+- 🇬🇧 Inglés (Fluido - C2)  
+- 🇵🇹 Portugués (Intermedio)  
 
-### 🎨 Intereses  
-Videojuegos, películas, composición musical, pintura
-
-### 📫 ¡Conectemos!  
-- [LinkedIn](https://www.linkedin.com/in/ivan-iraldi-8413a3213/)
+## 📫 ¡Conectemos!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-iraldi-8413a3213/)
 
 ---
 
-## 🇬🇧 English Version
-
-# 👋 Hi, I'm Iván Iraldi!
+# 🇬🇧 Hi, I'm Iván Iraldi!
 *Full-Stack Web Developer | Programming Tutor | Creative Problem Solver*
 
 ![Gif](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif)
 
-### 🚀 About Me  
-I'm a Full-Stack Web Developer with a strong focus on Front-End Development. I specialize in building dynamic, user-centered web applications using technologies such as JavaScript, React, Node.js, PostgreSQL, and Sequelize. I blend technical expertise with creativity to develop innovative and practical solutions.
+## 🚀 About Me  
+I'm a **Full-Stack Web Developer** with a strong focus on **Front-End Development**. I specialize in building dynamic, user-centered web applications using:
 
-### 🎓 Teaching & Mentorship  
-- **Full Stack Programming Tutor** at Desafío Latam  
-- **Back-End Tutor** at Coderhouse  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🎓 Teaching & Mentorship  
+👨‍🏫 **Full Stack Programming Tutor** at Desafío Latam  
+🖥️ **Back-End Tutor** at Coderhouse  
 I have guided multiple generations of students, emphasizing hands-on learning and real-world skills.
 
-### 🌟 Featured Projects  
-- 🐶 **WebRush Brasil**: My personal business website where I offer web design and development services.  
-- 🌍 **Sotelino Art Gallery**: An e-commerce platform developed for an artist from Argentina.  
-- 🎮 **In Progress**: A real-time online quiz game application.  
+## 🌟 Featured Projects  
+🚀 [**WebRush Brasil**](https://www.webrushbrasil.com.br/) - My business website where I offer web development services.  
+🛒 [**E-Commerce Portfolio**](https://ecommerce-portfolio-8cbo.onrender.com/) - Online store as part of my portfolio.  
+🎮 **In development** - A real-time online quiz game.
 
-- 👉 And much more!
+➡️ **More projects:**
+🔗 [Professional Portfolio](https://iraldidev.vercel.app/)  
+🎨 [Hobbies Portfolio](https://win98ivaniraldi.vercel.app/)  
+🖥️ [WebRush Demo Portfolio](https://portfolio-portfolio-cfrk.onrender.com/)  
 
-### 🛠️ Technical Skills  
-- **Languages**: JavaScript, SQL, Python, C#, Java  
-- **Frameworks & Libraries**: React, Redux, Node.js, Express, Sequelize, Bootstrap, TailwindCSS, PostgreSQL  
-- **Tools**: Git, Jest, Passport, Postman, Docker, PgAdmin
-
-### 🌐 Languages  
-- Spanish (Native)  
-- English (Fluent - C2)  
-- Portuguese (Intermediate)
-
-### 🎨 Interests  
-Video games, movies, music composition, painting
-
-### 📫 Let's Connect!  
-- [LinkedIn](https://www.linkedin.com/in/ivan-iraldi-8413a3213/)
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-iraldi-8413a3213/)
 
 ---
 
-## 🇵🇹 Versão em Português
-
-# 👋 Olá, sou Iván Iraldi!
+# 🇵🇹 Olá, sou Iván Iraldi!
 *Desenvolvedor Web Full-Stack | Tutor de Programação | Solucionador Criativo*
 
 ![Gif](https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif)
 
-### 🚀 Sobre Mim  
-Sou um Desenvolvedor Web Full-Stack com forte ênfase no Desenvolvimento Front-End. Especializo-me em criar aplicações web dinâmicas e centradas no usuário, utilizando tecnologias como JavaScript, React, Node.js, PostgreSQL e Sequelize. Combino meu conhecimento técnico com criatividade para desenvolver soluções inovadoras e práticas.
+## 🚀 Sobre Mim  
+Sou um **Desenvolvedor Web Full-Stack** com forte ênfase no **Front-End**. Especializo-me em criar aplicações web dinâmicas e centradas no usuário, utilizando:
 
-### 🎓 Ensino & Mentoria  
-- **Tutor de Programação Full Stack** na Desafío Latam  
-- **Tutor de Back-End** na Coderhouse  
-Orientei várias gerações de estudantes, promovendo um aprendizado prático e o desenvolvimento de habilidades reais.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌟 Projetos em Destaque  
-- 🐶 **WebRush Brasil**: Website da minha empresa pessoal, onde ofereço serviços de design e desenvolvimento web.  
-- 🌍 **Sotelino Art Gallery**: Plataforma de comércio eletrônico criada para um artista da Argentina.  
-- 🎮 **Em Andamento**: Aplicação de jogo de quiz online em tempo real.  
+## 🎓 Ensino & Mentoria  
+👨‍🏫 **Tutor de Programação Full Stack** na Desafío Latam  
+🖥️ **Tutor de Back-End** na Coderhouse  
+Orientei várias gerações de estudantes, promovendo aprendizado prático.
 
-- 👉 E muito mais!
-
-### 🛠️ Habilidades Técnicas  
-- **Linguagens**: JavaScript, SQL, Python, C#, Java  
-- **Frameworks & Bibliotecas**: React, Redux, Node.js, Express, Sequelize, Bootstrap, TailwindCSS, PostgreSQL  
-- **Ferramentas**: Git, Jest, Passport, Postman, Docker, PgAdmin
-
-### 🌐 Idiomas  
-- Espanhol (Nativo)  
-- Inglês (Fluente - C2)  
-- Português (Intermediário)
-
-### 🎨 Interesses  
-Video games, filmes, composição musical, pintura
-
-### 📫 Conecte-se!  
-- [LinkedIn](https://www.linkedin.com/in/ivan-iraldi-8413a3213/)
-
----
-
+## 📫 Conecte-se!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-iraldi-8413a3213/)
